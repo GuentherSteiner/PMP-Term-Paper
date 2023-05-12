@@ -1,0 +1,46 @@
+Performance Statistics for Long_Mom_NoTC, LS_Mom_NoTC, Long_Mom_TC, LS_Mom_TC
+ArithmAvgTotalReturn: Long_Mom_NoTC    4.920607
+LS_Mom_NoTC      3.452330
+Long_Mom_TC      2.002593
+LS_Mom_TC       -2.493832
+dtype: float64
+ArithmAvgXsReturn: Long_Mom_NoTC    3.957274
+LS_Mom_NoTC      2.488996
+Long_Mom_TC      1.039260
+LS_Mom_TC       -3.457165
+dtype: float64
+StdXsReturns: Long_Mom_NoTC    5.092259
+LS_Mom_NoTC      5.683587
+Long_Mom_TC      5.103104
+LS_Mom_TC        5.788593
+dtype: float64
+SharpeArithmetic: Long_Mom_NoTC    0.777116
+LS_Mom_NoTC      0.437927
+Long_Mom_TC      0.203653
+LS_Mom_TC       -0.597237
+dtype: float64
+GeomAvgTotalReturn: Long_Mom_NoTC    4.879283
+LS_Mom_NoTC      3.331568
+Long_Mom_TC      1.881114
+LS_Mom_TC       -2.617482
+dtype: float64
+GeomAvgXsReturn: Long_Mom_NoTC    3.899718
+LS_Mom_NoTC      2.352003
+Long_Mom_TC      0.901549
+LS_Mom_TC       -3.597047
+dtype: float64
+SharpeGeometric: Long_Mom_NoTC    0.765813
+LS_Mom_NoTC      0.413824
+Long_Mom_TC      0.176667
+LS_Mom_TC       -0.621403
+dtype: float64
+MinXsReturn: Long_Mom_NoTC   -4.172367
+LS_Mom_NoTC     -4.509651
+Long_Mom_TC     -4.502196
+LS_Mom_TC       -4.920878
+dtype: float64
+MaxXsReturn: Long_Mom_NoTC    8.305356
+LS_Mom_NoTC      6.285788
+Long_Mom_TC      7.975832
+LS_Mom_TC        5.635231
+dtype: float64
